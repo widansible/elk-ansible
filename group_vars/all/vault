@@ -1,0 +1,5 @@
+# Encrypt this vault after Elastic fixes exposing these passwords plaintext
+# in th ELK configs...
+vault_xpack_elastic_password: elastic
+vault_xpack_kibana_password: kibana
+vault_xpack_logstash_password: logstash
